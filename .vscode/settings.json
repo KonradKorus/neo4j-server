@@ -1,4 +1,0 @@
-{
-  "appService.defaultWebAppToDeploy": "undefined/subscriptions/f369ffe3-9f8c-4951-a233-c58f6f893ff1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/neo4j-server",
-  "appService.deploySubpath": "."
-}
